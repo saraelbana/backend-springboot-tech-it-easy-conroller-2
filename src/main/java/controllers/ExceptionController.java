@@ -1,4 +1,3 @@
 package controllers;
 
-public class ExceptionController {
-}
+public class ExceptionController {}
